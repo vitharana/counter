@@ -12,3 +12,9 @@ print(11)
 print(22)
 
 # done with the statements
+
+for i in range(10):
+    print(i)
+
+for i in range(10):
+    print(i)
