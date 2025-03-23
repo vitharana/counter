@@ -6,3 +6,8 @@ print(2)
 for i in range(10):
     print(i)
 
+print("for loop is done")
+
+print(11)
+print(22)
+
